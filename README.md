@@ -1,2 +1,2 @@
-#About
-##MintClassicCompany
+# About
+## MintClassicCompany
