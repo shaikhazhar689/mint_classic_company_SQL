@@ -10,7 +10,7 @@ Your primary challenge is to conduct an in-depth analysis of the Mint Classics C
 ### Data Source:
 The project relies on a relational database containing various tables, including employees, customers, orders, products, and warehouses. Your analysis will be based on this data, and the insights you uncover will guide the company's strategic decisions in the areas of inventory management and customer service.
 
-### Stakeholder Needs
+### Stakeholders Needs
 Our stakeholders required insights on various aspects of the Mint Classic Company, including:
 
 ***Employee and Customer Relations***: The need to list all employees with one or more associated customers from the employees and customers tables. Additionally, they wanted to identify customers with one or more orders in the orders table and view customer-order relationships, even if some customers had no orders.
