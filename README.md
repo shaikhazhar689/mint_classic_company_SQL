@@ -2,12 +2,13 @@
 ## MintClassicCompany
 
 ### Project Overview
-This project delves into various aspects of the Mint Classic Company's data, extracting insights to aid in decision-making, process improvement, and customer relationship management. It demonstrates my SQL skills and the ability to handle complex queries effectively.
+Welcome to the Mint Classics Company project, where you'll step into the world of a renowned retailer specializing in classic model cars and vehicles. In this project, we delve into the domain of employee and customer relations, full join analysis, order value trends, customer value analysis, and product buy price insights. Your journey will also include a close examination of inventory management and product quantity across various warehouses. The project aims to provide actionable insights into these areas of the business.
 
-Feel free to explore the project to gain a deeper understanding of Mint Classic Company's operations and the value it brings to the domain of car spare parts
+### Your Challenge:
+Your primary challenge is to conduct an in-depth analysis of the Mint Classics Company's data to derive meaningful insights. By utilizing SQL queries, you will address the objectives outlined above, enabling the company to make informed decisions regarding employee-customer relationships, order values, customer value, product buy prices, and inventory management. Your findings will provide actionable recommendations that contribute to the company's overall success and customer satisfaction.
 
-### Task
-This GitHub project showcases my comprehensive analysis of the Mint Classic Company's operations, focusing on customer data, inventory management, and shipping logistics in the domain of car spare parts. I've employed MySQL Server and extensive SQL queries to address key objectives.
+### Data Source:
+The project relies on a relational database containing various tables, including employees, customers, orders, products, and warehouses. Your analysis will be based on this data, and the insights you uncover will guide the company's strategic decisions in the areas of inventory management and customer service.
 
 ### Stakeholder Needs
 Our stakeholders required insights on various aspects of the Mint Classic Company, including:
